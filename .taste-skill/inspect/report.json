@@ -1,0 +1,2348 @@
+{
+ "url": "http://127.0.0.1:5173/",
+ "at": "2026-10-15T01:59:28.053Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.55,
+    0.99,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 1,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5542,
+     "screens": 6.2,
+     "words": 573,
+     "img": 10,
+     "video": 0,
+     "canvas": 0,
+     "svg": 15,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-consultation.webp",
+      "facial-care.webp",
+      "laser-consultation.webp",
+      "longevity.webp",
+      "spa-ritual.webp",
+      "vip-suite.webp",
+      "laser-consultation.webp",
+      "spa-ritual.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "A arte da beleza atemporal.",
+     "words": 5,
+     "chars": 27,
+     "lines": 2,
+     "size": 74.2,
+     "vw": 5.2,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.025,
+     "leading": 1.11,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.47,
+     "top": 314,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A arte da beleza atemporal.",
+     "words": 5,
+     "lines": 2,
+     "size": 74.2,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "A arte da beleza atemporal.",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 74.2,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 314,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 40.3,
+      "vw": 2.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 764,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "12+",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40.3,
+      "vw": 2.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 764,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "5.0",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40.3,
+      "vw": 2.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 764,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Protocolos de excelência",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 51.1,
+      "vw": 3.5,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1160,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Um refúgio de bem-estar",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 51.1,
+      "vw": 3.5,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.55,
+      "top": 2190,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Suíte privativa",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28.8,
+      "vw": 2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.57,
+      "top": 2760,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Precisão clínica",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 28.8,
+      "vw": 2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 2760,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Tempo para respirar",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 28.8,
+      "vw": 2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 3080,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Cuidado em cada detalhe",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 28.8,
+      "vw": 2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.49,
+      "top": 3080,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Cuidar também é acolher.",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 51.1,
+      "vw": 3.5,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 3455,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Reserve sua consulta exclusiva",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 51.1,
+      "vw": 3.5,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 4228,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Um endereço para desacelerar.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 28.8,
+      "vw": 2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.25,
+      "top": 4229,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.12,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      23,
+      24,
+      26,
+      29,
+      40,
+      51,
+      74
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.7,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 6.5
+     },
+     "measureChars": 85,
+     "max": {
+      "size": 74.2,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "text": "A arte da beleza"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 10,
+     "microLabelShare": 0.063,
+     "microSamples": [
+      "Atendimento privativo",
+      "Estética médica",
+      "Beleza com naturalidade",
+      "Maison Élégance · Jardins",
+      "Um encontro só seu",
+      "Menu de cuidados exclusivos"
+     ],
+     "upperShare": 0.26,
+     "centerShare": 0.06,
+     "smallText": 38
+    },
+    "eyebrows": [
+     {
+      "text": "Maison Élégance · Jardins",
+      "above": "A arte da beleza atemporal.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 273
+     },
+     {
+      "text": "Menu de cuidados exclusivos",
+      "above": "Protocolos de excelência",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1132
+     },
+     {
+      "text": "Arquitetura sensorial & conforto",
+      "above": "Um refúgio de bem-estar",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2160
+     },
+     {
+      "text": "Um primeiro encontro sem pressa",
+      "above": "Suíte privativa",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 2741
+     },
+     {
+      "text": "Tecnologia em um ambiente sereno",
+      "above": "Precisão clínica",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 2741
+     },
+     {
+      "text": "Rituais e recuperação em privacidade",
+      "above": "Tempo para respirar",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 3061
+     },
+     {
+      "text": "Hospitalidade que acompanha a visita",
+      "above": "Cuidado em cada detalhe",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 3061
+     },
+     {
+      "text": "A experiência Maison",
+      "above": "Cuidar também é acolher.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3425
+     },
+     {
+      "text": "Seu tempo, no centro de tudo",
+      "above": "Reserve sua consulta exclusiva",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4195
+     },
+     {
+      "text": "Maison Jardins · São Paulo",
+      "above": "Um endereço para desacelerar.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4195
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f9f6f0",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.43,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f8efed",
+       "top": 1017,
+       "hsl": {
+        "h": 11,
+        "s": 0.44,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#fff8f6",
+       "top": 2045,
+       "hsl": {
+        "h": 13,
+        "s": 1,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#eee3df",
+       "top": 3310,
+       "hsl": {
+        "h": 16,
+        "s": 0.31,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 4123,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f5ebe8",
+       "top": 5068,
+       "hsl": {
+        "h": 14,
+        "s": 0.39,
+        "l": 0.94
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5d554e",
+       "share": 0.44
+      },
+      {
+       "color": "#2b2625",
+       "share": 0.15
+      },
+      {
+       "color": "#725b38",
+       "share": 0.09
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.08
+      },
+      {
+       "color": "#625a52",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#725b38",
+      "hsl": {
+       "h": 36,
+       "s": 0.34,
+       "l": 0.33
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 36,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 9,
+     "heroLabels": [
+      "Ir para o conteúdo",
+      "Reserva VIP",
+      "Agendar consulta"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 5,
+     "shadowOverlay": 2,
+     "shadowSamples": [
+      "a.button.button-primary → rgba(72, 51, 28, 0.11) 0px 9px 22px 0px",
+      "div.hero-image-wrap → rgba(80, 57, 38, 0.11) 0px 18px 40px 0px",
+      "div.hero-caption-card → rgba(45, 34, 27, 0.12) 0px 15px 36px 0px",
+      "div.page-container.booking-panel → rgba(57, 39, 31, 0.09) 0px 15px 35px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 5,
+     "dashed": 0,
+     "blurred": 2,
+     "roundedBoxes": 18,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 10,
+     "mediaRadius": 22,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 1346
+      },
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 2356
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 3572
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.27
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": true,
+     "height": 0,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "playfair display",
+     "plus jakarta sans"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.53,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 1,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5841,
+     "screens": 5.7,
+     "words": 564,
+     "img": 10,
+     "video": 0,
+     "canvas": 0,
+     "svg": 15,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-consultation.webp",
+      "facial-care.webp",
+      "laser-consultation.webp",
+      "longevity.webp",
+      "spa-ritual.webp",
+      "vip-suite.webp",
+      "laser-consultation.webp",
+      "spa-ritual.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "A arte da beleza atemporal.",
+     "words": 5,
+     "chars": 27,
+     "lines": 2,
+     "size": 43,
+     "vw": 5.6,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.025,
+     "leading": 1.11,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.46,
+     "top": 281,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A arte da beleza atemporal.",
+     "words": 5,
+     "lines": 2,
+     "size": 43,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "A arte da beleza atemporal.",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 281,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 31,
+      "vw": 4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 677,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "12+",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 31,
+      "vw": 4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.14,
+      "top": 677,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "5.0",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 31,
+      "vw": 4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 677,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Protocolos de excelência",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 979,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Um refúgio de bem-estar",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2562,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cuidar também é acolher.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 3780,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Discrição",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 3981,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Naturalidade",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.2,
+      "top": 3981,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Atenção sem pressa",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 3981,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Reserve sua consulta exclusiva",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 4555,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.12,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      21,
+      22,
+      23,
+      26,
+      31,
+      38,
+      43
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 6.8
+     },
+     "measureChars": 49,
+     "max": {
+      "size": 43,
+      "vw": 5.6,
+      "font": "Playfair Display",
+      "text": "A arte da beleza"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 10,
+     "microLabelShare": 0.064,
+     "microSamples": [
+      "Atendimento privativo",
+      "Estética médica",
+      "Beleza com naturalidade",
+      "Maison Élégance · Jardins",
+      "Um encontro só seu",
+      "Menu de cuidados exclusivos"
+     ],
+     "upperShare": 0.24,
+     "centerShare": 0.06,
+     "smallText": 37
+    },
+    "eyebrows": [
+     {
+      "text": "Maison Élégance · Jardins",
+      "above": "A arte da beleza atemporal.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 240
+     },
+     {
+      "text": "Descobrir protocolos",
+      "above": "100%",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 584
+     },
+     {
+      "text": "Descobrir protocolos",
+      "above": "12+",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 584
+     },
+     {
+      "text": "Menu de cuidados exclusivos",
+      "above": "Protocolos de excelência",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 951
+     },
+     {
+      "text": "Arquitetura sensorial & conforto",
+      "above": "Um refúgio de bem-estar",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2532
+     },
+     {
+      "text": "Seu tempo, no centro de tudo",
+      "above": "Reserve sua consulta exclusiva",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4522
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f9f6f0",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.43,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f8efed",
+       "top": 867,
+       "hsl": {
+        "h": 11,
+        "s": 0.44,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#fff8f6",
+       "top": 2448,
+       "hsl": {
+        "h": 13,
+        "s": 1,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#eee3df",
+       "top": 3666,
+       "hsl": {
+        "h": 16,
+        "s": 0.31,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 4480,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f5ebe8",
+       "top": 5367,
+       "hsl": {
+        "h": 14,
+        "s": 0.39,
+        "l": 0.94
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5d554e",
+       "share": 0.45
+      },
+      {
+       "color": "#2b2625",
+       "share": 0.15
+      },
+      {
+       "color": "#725b38",
+       "share": 0.09
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.08
+      },
+      {
+       "color": "#625a52",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#725b38",
+      "hsl": {
+       "h": 36,
+       "s": 0.34,
+       "l": 0.33
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 36,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 9,
+     "heroLabels": [
+      "Ir para o conteúdo",
+      "Reserva VIP",
+      "Agendar consulta"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 5,
+     "shadowOverlay": 2,
+     "shadowSamples": [
+      "a.button.button-primary → rgba(72, 51, 28, 0.11) 0px 9px 22px 0px",
+      "div.hero-image-wrap → rgba(80, 57, 38, 0.11) 0px 18px 40px 0px",
+      "div.hero-caption-card → rgba(45, 34, 27, 0.12) 0px 15px 36px 0px",
+      "div.page-container.booking-panel → rgba(57, 39, 31, 0.09) 0px 15px 35px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 5,
+     "dashed": 0,
+     "blurred": 2,
+     "roundedBoxes": 18,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 10,
+     "mediaRadius": 22,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 1195
+      },
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 2713
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 3927
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 0,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "playfair display",
+     "plus jakarta sans"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.63,
+    0.91,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 1,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 9747,
+     "screens": 11.5,
+     "words": 562,
+     "img": 10,
+     "video": 0,
+     "canvas": 0,
+     "svg": 15,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-consultation.webp",
+      "facial-care.webp",
+      "laser-consultation.webp",
+      "longevity.webp",
+      "spa-ritual.webp",
+      "vip-suite.webp",
+      "laser-consultation.webp",
+      "spa-ritual.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "A arte da beleza atemporal.",
+     "words": 5,
+     "chars": 27,
+     "lines": 2,
+     "size": 45,
+     "vw": 11.5,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.025,
+     "leading": 1.11,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.89,
+     "top": 231,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A arte da beleza atemporal.",
+     "words": 5,
+     "lines": 2,
+     "size": 45,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "A arte da beleza atemporal.",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 45,
+      "vw": 11.5,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 231,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 589,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "12+",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.25,
+      "top": 589,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "5.0",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.16,
+      "top": 589,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Protocolos de excelência",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1243,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Harmonização & Bioestimulação",
+      "words": 3,
+      "chars": 29,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 1828,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Laser & Remodelamento Corporal",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 2445,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Lifting Não Cirúrgico & Pele",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3063,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Spas & Rituais de Descompressão",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3654,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Um refúgio de bem-estar",
+      "words": 4,
+      "chars": 23,
+      "lines": 2,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 4116,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cuidar também é acolher.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 6115,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Discrição",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 6389,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Naturalidade",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 6626,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Atenção sem pressa",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 6836,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Reserve sua consulta exclusiva",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.16,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 7264,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Um endereço para desacelerar.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.24,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 8140,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Explorar",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 9079,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Maison Jardins",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 9383,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 18,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.12,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      21,
+      22,
+      23,
+      26,
+      29,
+      38,
+      45
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.3
+     },
+     "measureChars": 46,
+     "max": {
+      "size": 45,
+      "vw": 11.5,
+      "font": "Playfair Display",
+      "text": "A arte da beleza"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 10,
+     "microLabelShare": 0.064,
+     "microSamples": [
+      "Atendimento privativo",
+      "Estética médica",
+      "Beleza com naturalidade",
+      "Maison Élégance · Jardins",
+      "Um encontro só seu",
+      "Menu de cuidados exclusivos"
+     ],
+     "upperShare": 0.25,
+     "centerShare": 0.06,
+     "smallText": 37
+    },
+    "eyebrows": [
+     {
+      "text": "Maison Élégance · Jardins",
+      "above": "A arte da beleza atemporal.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 199
+     },
+     {
+      "text": "Descobrir protocolos",
+      "above": "100%",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 513
+     },
+     {
+      "text": "Descobrir protocolos",
+      "above": "12+",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 513
+     },
+     {
+      "text": "Menu de cuidados exclusivos",
+      "above": "Protocolos de excelência",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1215
+     },
+     {
+      "text": "Facial",
+      "above": "Harmonização & Bioestimulação",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 1797
+     },
+     {
+      "text": "Corporal",
+      "above": "Laser & Remodelamento Corporal",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 2415
+     },
+     {
+      "text": "Longevidade",
+      "above": "Lifting Não Cirúrgico & Pele",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3033
+     },
+     {
+      "text": "Rituais",
+      "above": "Spas & Rituais de Descompressão",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3623
+     },
+     {
+      "text": "Arquitetura sensorial & conforto",
+      "above": "Um refúgio de bem-estar",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4086
+     },
+     {
+      "text": "A experiência Maison",
+      "above": "Cuidar também é acolher.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 6085
+     },
+     {
+      "text": "Seu tempo, no centro de tudo",
+      "above": "Reserve sua consulta exclusiva",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 7231
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f9f6f0",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.43,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#dcc5a8",
+       "top": 680,
+       "hsl": {
+        "h": 33,
+        "s": 0.43,
+        "l": 0.76
+       }
+      },
+      {
+       "color": "#f8efed",
+       "top": 1139,
+       "hsl": {
+        "h": 11,
+        "s": 0.44,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1536,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#fff8f6",
+       "top": 4010,
+       "hsl": {
+        "h": 13,
+        "s": 1,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#d8c7b7",
+       "top": 4677,
+       "hsl": {
+        "h": 29,
+        "s": 0.3,
+        "l": 0.78
+       }
+      },
+      {
+       "color": "#eee3df",
+       "top": 6009,
+       "hsl": {
+        "h": 16,
+        "s": 0.31,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#f5ebe8",
+       "top": 8784,
+       "hsl": {
+        "h": 14,
+        "s": 0.39,
+        "l": 0.94
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5d554e",
+       "share": 0.45
+      },
+      {
+       "color": "#2b2625",
+       "share": 0.15
+      },
+      {
+       "color": "#725b38",
+       "share": 0.09
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.08
+      },
+      {
+       "color": "#625a52",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#fff9f7",
+      "hsl": {
+       "h": 15,
+       "s": 1,
+       "l": 0.98
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 12,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 36,
+     "withShadow": 2,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 9,
+     "heroLabels": [
+      "Ir para o conteúdo",
+      "Agendar consulta"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 5,
+     "shadowOverlay": 1,
+     "shadowSamples": [
+      "a.button.button-primary → rgba(72, 51, 28, 0.11) 0px 9px 22px 0px",
+      "div.hero-image-wrap → rgba(80, 57, 38, 0.11) 0px 18px 40px 0px",
+      "div.hero-caption-card → rgba(45, 34, 27, 0.12) 0px 15px 36px 0px",
+      "div.page-container.booking-panel → rgba(57, 39, 31, 0.09) 0px 15px 35px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 5,
+     "dashed": 0,
+     "blurred": 2,
+     "roundedBoxes": 18,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 10,
+     "mediaRadius": 22,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 1536
+      },
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 4309
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4677
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 6344
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.17
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 0,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "playfair display",
+     "plus jakarta sans"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "10 eyebrow/kicker label(s) above headings: \"Maison Élégance · Jardins\" above \"A arte da beleza atemporal.\"; \"Menu de cuidados exclusivos\" above \"Protocolos de excelência\"; \"Arquitetura sensorial & conforto\" above \"Um refúgio de bem-estar\"; \"Um primeiro encontro sem pressa\" above \"Suíte privativa\"; \"Tecnologia em um ambiente sereno\" above \"Precisão clínica\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "10 tiny uppercase letter-spaced labels (e.g. \"Atendimento privativo\", \"Estética médica\", \"Beleza com naturalidade\", \"Maison Élégance · Jardins\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "5 box-shadow(s) on elements at rest: a.button.button-primary → rgba(72, 51, 28, 0.11) 0px 9px 22px 0px | div.hero-image-wrap → rgba(80, 57, 38, 0.11) 0px 18px 40px 0px | div.hero-caption-card → rgba(45, 34, 27, 0.12) 0px 15px 36px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "button-fx",
+   "width": 1440,
+   "message": "Buttons with shadow/glow.",
+   "fix": "Flat fill, one colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "5 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "glass",
+   "width": 1440,
+   "message": "2 backdrop-blur surfaces.",
+   "fix": "One blurred sticky bar at most; glass cards are a tell.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "1 row(s) of identical cards each topped with a small icon (3 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f9f6f0).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "16 different font sizes (9, 10, 11, 12, 13, 14, 15, 16, 18, 23, 24, 26, 29, 40, 51, 74).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (6.5:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "38 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\desktop-page-02.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\tablet-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\mobile-page-01.jpg",
+    "E:\\EMPRESA\\Projetos para trabalho\\Clinica estetica\\Luxury Beauty Salon\\.taste-skill\\inspect\\mobile-page-02.jpg"
+   ]
+  }
+ ]
+}
